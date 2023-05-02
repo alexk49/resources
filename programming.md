@@ -1,8 +1,6 @@
 # Programming Resources
 
-These are notes of different programming resources. I use simple [todo.txt](https://github.com/todotxt) type tags to show status of certain resources.
-
-
+These are notes of different programming resources. I use simple [todo.txt](https://github.com/todotxt) type tags to show status of certain resources. Anything with no tags can be assumed to be only there for reference/future use.
 
 ## Job hunting
 * [devitJobs](https://devitjobs.uk)
