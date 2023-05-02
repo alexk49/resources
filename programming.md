@@ -18,6 +18,7 @@ These are notes of different programming resources. I use simple [todo.txt](http
 * [Automate the boring stuff](https://automatetheboringstuff.com/) +finished
 * [Beyond the basic stuff](https://inventwithpython.com/beyond/) +in_progress
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) +todo
+* [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9523238?start=15). I think this is best with beginners, particular if paired with automate the boring stuff. +finished
 
 ## Linux
 
@@ -34,6 +35,7 @@ These are notes of different programming resources. I use simple [todo.txt](http
 
 * [Odin Project](https://www.theodinproject.com/)
 * [CS50 Web](https://cs50.harvard.edu/web/2020/)
+* [Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=0#overview)
 
 ## Javascript
 
