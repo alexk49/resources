@@ -22,6 +22,7 @@ General courses on Computer Science, and the sort of topics you might cover. Som
 * [Teach yourself cs](https://teachyourselfcs.com/)
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/)
 * [Computer science roadmap](https://roadmap.sh/computer-science)
+* [The Missing semester of your CS education](https://missing.csail.mit.edu/)
 
 ### Web development
 
