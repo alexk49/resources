@@ -6,9 +6,10 @@ This is definitely not perfect and is by no means meant to be definitive.
 
 ## General Resources
 
+### Job hunting
+
 Best places for finding UK tech jobs.
 
-### Job hunting
 * [devitJobs](https://devitjobs.uk)
 * [LinkedIn](https://www.linkedin.com), sadly still seems to be the main way to go
 
