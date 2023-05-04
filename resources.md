@@ -15,7 +15,7 @@ Best places for finding UK tech jobs.
 
 ### Computer Science
 
-General courses on Computer Science, and the sort of topics you might cover.
+General courses on Computer Science, and the sort of topics you might cover. Some of the other more specific resources have been taken from links within these.
 
 * [CS50](https://cs50.harvard.edu/x/2023/) +finished
 * [Open Source Society University](https://github.com/ossu/computer-science)
@@ -25,7 +25,7 @@ General courses on Computer Science, and the sort of topics you might cover.
 
 ### Web development
 
-General courses for web development. 
+General courses for web development. Some of the other more specific resources have been taken from links within these.
 
 * [Odin Project](https://www.theodinproject.com/) +in_progress
 * [CS50 Web](https://cs50.harvard.edu/web/2020/)
@@ -56,13 +56,28 @@ General courses for web development.
 ### Python
 
 * [Automate the boring stuff](https://automatetheboringstuff.com/) +finished
-* [Beyond the basic stuff](https://inventwithpython.com/beyond/) +in_progress
-* [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) +todo
+* [Beyond the basic stuff](https://inventwithpython.com/beyond/)
+* [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 * [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9523238?start=15). I think this is best with beginners, particular if paired with automate the boring stuff. +finished
+
+### HTML and CSS
+
+* [HTML & CSS design and build websites](https://www.amazon.co.uk/gp/product/1118008189/ref=as_li_ss_tl?ie=UTF8&linkCode=as2)
+* [HTML Cheatsheat](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS colours](https://www.w3schools.com/cssref/css_colors_legal.php)
+* [CSS fonts](https://www.w3schools.com/Css/css_font.asp)
+* [Web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
+
+For working with CSS, sometimes you need to find good matching colours. In this instance these can be useful:
+
+* [Adobe Color wheel](https://color.adobe.com/create/color-wheel)
+* [Coolors](https://coolors.co/) can be useful for quickly making a colour scheme
 
 ### Javascript
 
 * [Eloquent Javascript](https://eloquentjavascript.net/)
+* Covered in [Odin Project](https://www.theodinproject.com/)
 
 ### C/C++
 
@@ -95,7 +110,7 @@ This link is basically all you need.
 
 ## How the internet works
 
-### Overviews
+### Overview
 
 * [How does the internet work](https://cs.fyi/guide/how-does-internet-work)
 * [How the internet works mozilla docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
