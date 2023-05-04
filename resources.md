@@ -56,7 +56,7 @@ General courses for web development.
 ### Python
 
 * [Automate the boring stuff](https://automatetheboringstuff.com/) +finished
-* [Beyond the basic stuff]https://roadmap.sh/frontend(https://inventwithpython.com/beyond/) +in_progress
+* [Beyond the basic stuff](https://inventwithpython.com/beyond/) +in_progress
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) +todo
 * [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9523238?start=15). I think this is best with beginners, particular if paired with automate the boring stuff. +finished
 
