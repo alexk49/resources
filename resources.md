@@ -23,6 +23,7 @@ General courses on Computer Science, and the sort of topics you might cover. Som
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/)
 * [Computer science roadmap](https://roadmap.sh/computer-science)
 * [The Missing semester of your CS education](https://missing.csail.mit.edu/)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ### Web development
 
@@ -41,6 +42,7 @@ General courses for web development. Some of the other more specific resources h
 * [The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523) +in_progress
 * [Command reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Art of the command line](https://github.com/jlevy/the-art-of-command-line)
+* [The Unix Programming Environment](https://www.amazon.co.uk/UNIX-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_1?crid=3RCJBH7C4BPA8&keywords=unix+programming+environment&s=books&sprefix=unix+programming+environmen%2Cstripbooks%2C103&sr=1-1)
 
 ### Powershell
 
@@ -91,14 +93,14 @@ This link is basically all you need.
 
 * [Markdown cheatsheat](https://www.markdownguide.org/cheat-sheet)
 
-## Useful knowledge / theory
+## Data Structures & Algorithms
 
-### Data Structures & Algorithms
-
+* [Data Structures and Algorithms in Python](https://www.amazon.co.uk/Structures-Algorithms-Python-Michael-Goodrich/dp/812656217X/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=1-1)
 * [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
 
-### Software Architecture
+## Software Architecture
 
+* [Head first Design Patterns](https://www.amazon.co.uk/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=sr_1_1?crid=1R15OKZO8FCG1&keywords=head+first+design+patterns&s=books&sprefix=head+first+design+pattern%2Cstripbooks%2C110&sr=1-1)
 * [Object Oriented design](https://www.coursera.org/learn/object-oriented-design)
 * [Design patterns](https://www.coursera.org/learn/design-patterns)
 * [Software Architecture](https://www.coursera.org/learn/software-architecture)
@@ -109,13 +111,11 @@ This link is basically all you need.
 
 * [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
 
-## How the internet works
+## Networking
 
-### Overview
+* [Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+
+### How the internet works
 
 * [How does the internet work](https://cs.fyi/guide/how-does-internet-work)
 * [How the internet works mozilla docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
-
-### Networking
-
-* [Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
