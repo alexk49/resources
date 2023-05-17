@@ -31,7 +31,7 @@ General courses on Computer Science, and the sort of topics you might cover. Som
 
 General courses for web development. Some of the other more specific resources have been taken from links within these.
 
-* [Odin Project](https://www.theodinproject.com/) +in_progress
+* [Odin Project](https://www.theodinproject.com/)
 * [CS50 Web](https://cs50.harvard.edu/web/2020/)
 * [Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=0#overview)
 * [Front end roadmap](https://roadmap.sh/frontend)
@@ -54,6 +54,7 @@ General courses for web development. Some of the other more specific resources h
 
 ### Git
 
+* [Odin Project Git set up and introduction](https://www.theodinproject.com/lessons/foundations-setting-up-git) - this is very good to get started with basics quickly +finished
 * [Pro Git](https://git-scm.com/book/en/v2)
 
 ## Language Specific resources
@@ -67,13 +68,17 @@ General courses for web development. Some of the other more specific resources h
 
 ### HTML
 
+* [Odin Project HTML Foundations](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css) +finished
 * [HTML & CSS design and build websites](https://www.amazon.co.uk/gp/product/1118008189/ref=as_li_ss_tl?ie=UTF8&linkCode=as2)
 * [HTML Cheatsheat](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
 
 ### CSS
 
+* [Odin Project CSS fundamentals](https://www.theodinproject.com/lessons/foundations-intro-to-css) +in_progress
 * [HTML & CSS design and build websites](https://www.amazon.co.uk/gp/product/1118008189/ref=as_li_ss_tl?ie=UTF8&linkCode=as2)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [Mozilla docs learn css](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
+#### Fonts and Colours references
 * [CSS colours](https://www.w3schools.com/cssref/css_colors_legal.php)
 * [CSS fonts](https://www.w3schools.com/Css/css_font.asp)
 * [Web safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
@@ -85,8 +90,8 @@ For working with CSS, sometimes you need to find good matching colours. In this 
 
 ### Javascript
 
+* [Odin Project javascript fundamentals](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
-* Covered in [Odin Project](https://www.theodinproject.com/)
 
 ### C/C++
 
@@ -126,9 +131,10 @@ This link is basically all you need.
 * [How does the internet work](https://cs.fyi/guide/how-does-internet-work)
 * [How the internet works mozilla docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 
-Subjects to cover:
+### HTTP/HTTPs
+    * [Introductory HTTP Beginner-friendly book on HTTP](https://launchschool.com/books/http/read/introduction) from the launch school open book shelf
 
-* HTTP/HTTPs
+Subjects to cover:
 * Browsers
 * DNS
 * Domain names
