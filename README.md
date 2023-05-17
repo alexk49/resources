@@ -128,6 +128,7 @@ This link is basically all you need.
 
 ## How the internet works
 
+* The [Odin Project summary page](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work) is great for this and contains lots of additional resources
 * [How does the internet work](https://cs.fyi/guide/how-does-internet-work)
 * [How the internet works mozilla docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 
