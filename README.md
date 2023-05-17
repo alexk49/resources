@@ -92,6 +92,7 @@ For working with CSS, sometimes you need to find good matching colours. In this 
 
 * [Odin Project javascript fundamentals](https://www.theodinproject.com/lessons/foundations-fundamentals-part-1)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
+* [Introduction to Programming with Javascript](https://launchschool.com/books/javascript)
 
 ### C/C++
 
@@ -103,6 +104,11 @@ For working with CSS, sometimes you need to find good matching colours. In this 
 This link is basically all you need. 
 
 * [Markdown cheatsheat](https://www.markdownguide.org/cheat-sheet)
+
+### Regex
+
+* [Launch school Introduction to Regular Expressions](https://launchschool.com/books/regex)
+* [Regular Expressions cheatsheat](https://launchschool.com/books/regex/read/conclusion#cheat-sheet) from Launch school book
 
 ## Data Structures & Algorithms
 
@@ -140,6 +146,10 @@ Subjects to cover:
 * DNS
 * Domain names
 * Hosting
+
+### Web APIs
+
+* [Working with web APIs](https://launchschool.com/books/working_with_apis)
 
 ## Test driven development
 
