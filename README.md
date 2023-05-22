@@ -62,7 +62,7 @@ General courses for web development. Some of the other more specific resources h
 ### Python
 
 * [Automate the boring stuff](https://automatetheboringstuff.com/) +finished
-* [Beyond the basic stuff](https://inventwithpython.com/beyond/)
+* [Beyond the basic stuff](https://inventwithpython.com/beyond/) +in_progress
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 * [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9523238?start=15). I think this is best with beginners, particular if paired with automate the boring stuff. +finished
 
@@ -74,7 +74,7 @@ General courses for web development. Some of the other more specific resources h
 
 ### CSS
 
-* [Odin Project CSS fundamentals](https://www.theodinproject.com/lessons/foundations-intro-to-css) +in_progress
+* [Odin Project CSS fundamentals](https://www.theodinproject.com/lessons/foundations-intro-to-css)
 * [HTML & CSS design and build websites](https://www.amazon.co.uk/gp/product/1118008189/ref=as_li_ss_tl?ie=UTF8&linkCode=as2)
 * [Mozilla docs learn css](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
