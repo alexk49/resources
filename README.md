@@ -26,6 +26,8 @@ General courses on Computer Science, and the sort of topics you might cover. Som
 * [Computer science roadmap](https://roadmap.sh/computer-science)
 * [The Missing semester of your CS education](https://missing.csail.mit.edu/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [MIT Open courseware](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=-runs.best_start_date)
+* [MIT Computer Science guide](https://laconicml.com/computer-science-engineer-mit-university/)
 
 ### Web development
 
@@ -131,6 +133,7 @@ This link is basically all you need.
 ## Networking
 
 * [Networking](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+* [MIT Networks course](https://ocw.mit.edu/courses/14-15-networks-spring-2022/)
 
 ## How the internet works
 
@@ -154,3 +157,8 @@ Subjects to cover:
 ## Test driven development
 
 * [Test-driven development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
+
+### Maths
+
+* [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+* [Introduction to Probability](https://www.edx.org/course/introduction-to-probability)
