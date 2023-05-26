@@ -156,9 +156,12 @@ Subjects to cover:
 
 ## Test driven development
 
+* [Test driven development by example](https://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530)
 * [Test-driven development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
 
 ### Maths
 
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 * [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+* [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
 * [Introduction to Probability](https://www.edx.org/course/introduction-to-probability)
