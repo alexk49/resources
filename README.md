@@ -57,6 +57,7 @@ General courses for web development. Some of the other more specific resources h
 ### Git
 
 * [Odin Project Git set up and introduction](https://www.theodinproject.com/lessons/foundations-setting-up-git) - this is very good to get started with basics quickly +finished
+* [Beyond the Basic Stuff with Python chapter on git](https://inventwithpython.com/beyond/chapter12.html) is another great way to learn basics quickly +finished
 * [Pro Git](https://git-scm.com/book/en/v2)
 
 ## Language Specific resources
