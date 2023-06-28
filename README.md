@@ -2,9 +2,7 @@
 
 Just searching different resources can be time consuming. This serves as a personal reference for things I've come across and found useful, as well as resources I intend to use.
 
-These are notes of different programming resources. I use simple [todo.txt](https://github.com/todotxt) type tags to show status of certain resources. Anything with no tags can be assumed to be only there for reference/future use.
-
-This is definitely not perfect and is by no means meant to be definitive.
+These are notes of different programming resources. This is definitely not perfect and is by no means meant to be definitive.
 
 ## General Resources
 
@@ -19,7 +17,7 @@ Best places for finding UK tech jobs.
 
 General courses on Computer Science, and the sort of topics you might cover. Some of the other more specific resources have been taken from links within these.
 
-* [CS50](https://cs50.harvard.edu/x/2023/) +finished
+* [CS50](https://cs50.harvard.edu/x/2023/)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 * [Teach yourself cs](https://teachyourselfcs.com/)
 * [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/)
@@ -43,12 +41,12 @@ General courses for web development. Some of the other more specific resources h
 
 ### Linux
 
-* [The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523) +in_progress
+* [The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523) 
 * [Command reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Art of the command line](https://github.com/jlevy/the-art-of-command-line)
 * [The Unix Programming Environment](https://www.amazon.co.uk/UNIX-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_1?crid=3RCJBH7C4BPA8&keywords=unix+programming+environment&s=books&sprefix=unix+programming+environmen%2Cstripbooks%2C103&sr=1-1)
 
-### Powershell
+### Powershel
 
 * [Learn Powershell in a month of lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches)
 
@@ -56,22 +54,22 @@ General courses for web development. Some of the other more specific resources h
 
 ### Git
 
-* [Odin Project Git set up and introduction](https://www.theodinproject.com/lessons/foundations-setting-up-git) - this is very good to get started with basics quickly +finished
-* [Beyond the Basic Stuff with Python chapter on git](https://inventwithpython.com/beyond/chapter12.html) is another great way to learn basics quickly +finished
+* [Odin Project Git set up and introduction](https://www.theodinproject.com/lessons/foundations-setting-up-git) - this is very good to get started with basics quickly 
+* [Beyond the Basic Stuff with Python chapter on git](https://inventwithpython.com/beyond/chapter12.html) is another great way to learn basics quickly
 * [Pro Git](https://git-scm.com/book/en/v2)
 
 ## Language Specific resources
 
 ### Python
 
-* [Automate the boring stuff](https://automatetheboringstuff.com/) +finished
-* [Beyond the basic stuff](https://inventwithpython.com/beyond/) +in_progress
+* [Automate the boring stuff](https://automatetheboringstuff.com/)
+* [Beyond the basic stuff](https://inventwithpython.com/beyond/)
 * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
-* [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9523238?start=15). I think this is best with beginners, particular if paired with automate the boring stuff. +finished
+* [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9523238?start=15). I think this is best with beginners, particular if paired with automate the boring stuff.
 
 ### HTML
 
-* [Odin Project HTML Foundations](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css) +finished
+* [Odin Project HTML Foundations](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
 * [HTML & CSS design and build websites](https://www.amazon.co.uk/gp/product/1118008189/ref=as_li_ss_tl?ie=UTF8&linkCode=as2)
 * [HTML Cheatsheat](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
 
