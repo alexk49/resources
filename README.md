@@ -141,7 +141,7 @@ This link is basically all you need.
 * [How the internet works mozilla docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 
 ### HTTP/HTTPs
-    * [Introductory HTTP Beginner-friendly book on HTTP](https://launchschool.com/books/http/read/introduction) from the launch school open book shelf
+* [Introductory HTTP Beginner-friendly book on HTTP](https://launchschool.com/books/http/read/introduction) from the launch school open book shelf
 
 Subjects to cover:
 * Browsers
